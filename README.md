@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jv5j00crnohnnyBar3qkd1bour
 
-<!--
-**Jv5j00crnohnnyBar3qkd1bour/Jv5j00crnohnnyBar3qkd1bour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎺 🎸 🥊 🔥 A keen learner of automation 🎺 🎸 🥊 🔥
 
-Here are some ideas to get you started:
+## About Me
+🎱 🎮 A developer in tech communities 🎱 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎪 🏄 🛶 🎽 Hacking on cybersecurity 🎪 🏄 🛶 🎽
+
+### Fun Facts
+🥊 🎣 🏄 Enthusiastic about computer vision 🥊 🎣 🏄
+
+---
+🎾 🎳 🌺 🎳 🏸 Thanks for visiting my profile! 🏒 🚣 🎣 🎰 🏑
